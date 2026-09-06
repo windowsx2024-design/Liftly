@@ -1,0 +1,7 @@
+{
+  "name": "liftly-dropshipping-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local product-research dashboard with a simple Node API.",
+  "scripts": {"start": "node server.js"}
+}
